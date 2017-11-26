@@ -2,11 +2,11 @@
 
 logoWidth = 50;
 logoHeight = 0.85883 * logoWidth;
-logoOffset = logoWidth + 2;
 
-cubeBase = 1.2353 * logoWidth;
-cubeHeight = 1.09413 * logoWidth;
+cubeBase = 1.4 * logoWidth;  // use higher factor to make stronger corner bases
+cubeHeight = 1.2 * logoWidth;  // Use higher factore for thicker cube base
 
+logoOffset = logoWidth + 2; // don't touch this
 
 logo();
 
