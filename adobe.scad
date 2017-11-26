@@ -11,6 +11,7 @@ logoOffset = logoWidth + 2; // don't touch this
 logo();
 
 module logo() {
+  rotate([90, 0, 0])
   difference() {
     cube([cubeBase, cubeHeight, cubeBase]);
     translate([(cubeBase - logoWidth)/2, cubeHeight - logoHeight, -logoOffset/2])
