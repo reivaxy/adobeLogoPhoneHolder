@@ -7,4 +7,4 @@ The openScad file is semi parametric, allowing you to chose the size of the cube
 
 Tweaking the logo shape would probably allow to make a model more easily printable and more robust once printed...
 
-<src img="https://raw.githubusercontent.com/reivaxy/adobeLogoPhoneHolder/master/resources/adobeLogo.jpg" width="500"/>
+<img src="https://raw.githubusercontent.com/reivaxy/adobeLogoPhoneHolder/master/resources/adobeLogo.jpg" width="500"/>
